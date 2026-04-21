@@ -12,7 +12,7 @@
 
 👉 Choisissez votre système :
 
-- 🪟 **Windows** → [Télécharger](./Download/)
+- 🪟 **Windows** → [Télécharger](./Download/rustdesk-tech-in.exe)
 - 🍎 **macOS** → [Télécharger](./macos/)
 - 🐧 **Linux** → [Télécharger](./linux/)
 
