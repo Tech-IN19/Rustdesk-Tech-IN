@@ -12,7 +12,8 @@
 
 👉 Choisissez votre système :
 
-- 🪟 **Windows** → [Télécharger](./Download/rustdesk-tech-in.exe)
+- 🪟 **Windows**  
+👉 [Télécharger RustDesk TECH'IN](https://raw.githubusercontent.com/Tech-IN9/Rustdesk-Tech-IN/main/Download/rustdesk-tech-in.exe)
 - 🍎 **macOS** → [Télécharger](./macos/)
 - 🐧 **Linux** → [Télécharger](./linux/)
 
