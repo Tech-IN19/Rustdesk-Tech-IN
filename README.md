@@ -12,7 +12,7 @@
 
 👉 Choisissez votre système :
 
-- 🪟 **Windows** → [Télécharger](./windows/)
+- 🪟 **Windows** → [Télécharger](./download/)
 - 🍎 **macOS** → [Télécharger](./macos/)
 - 🐧 **Linux** → [Télécharger](./linux/)
 
